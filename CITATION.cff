@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Runtime Power Feasibility for Small Modular Nuclear Reactor-Powered Datacenters"
+type: software
+license: MIT
+authors:
+  - family-names: "Ziegler"
+    given-names: "Shania"
+abstract: >-
+  Simulation software that exposes iodine-xenon reactor feasibility to a
+  datacenter workload scheduler before a power maneuver is committed. It
+  includes an iodine-xenon reactor model, constant-hold and path projections
+  of xenon reactivity, reactor policies, workload-aware controllers, stress
+  scenarios and sensitivity experiments, evaluated on Google Borg 2019 cells
+  A-H. All results are simulation results.
+keywords:
+  - small modular reactor
+  - xenon
+  - datacenter
+  - power scheduling
+  - feasibility
+  - simulation

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# External inputs and run outputs live in data/ and are never committed
+# (PJM data must not be redistributed; see data/README.md).
+data/*
+!data/README.md
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
